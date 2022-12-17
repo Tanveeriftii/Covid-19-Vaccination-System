@@ -1,0 +1,28 @@
+body{
+	background-color: rgb(0, 77, 153);
+}
+h5{
+    text-align: center;
+        
+    }
+    h1{
+        text-align: center;
+            
+        }
+        p{
+            text-align: center;
+                
+            }
+            .btn-link{
+                background-color: rgb(0, 153, 51);
+                padding-left:105px;
+                padding-right:105px;
+                padding-top:2px;
+                padding-bottom:2px;
+                border-radius:5px; 
+                font-family: consolas;
+            }
+            .btn-link:active{
+                background-color:rgb(255, 153, 0);
+               
+            }

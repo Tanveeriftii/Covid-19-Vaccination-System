@@ -1,0 +1,140 @@
+div.sticky
+{
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  padding: 5px;
+  background-color: #cae8ca;
+  border: 2px solid #4CAF50;
+}
+.home1
+{
+  width: 320px;
+  padding: 10px;
+  border: 5px solid gray;
+  margin: 0;
+}
+.r1
+{
+  position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+	padding-left:100px;
+	padding-right:100px;
+	padding-bottom:50px;
+	border:2px solid;
+	border-radius:10px;
+	vertical-align:center;
+  border-color: gold;
+}
+.r2
+{
+  border-radius:1px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+  background-color: gold;
+}
+.log1
+{
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+  padding-top: 50px;
+	padding-left:100px;
+	padding-right:100px;
+	padding-bottom:50px;
+	border:2px solid;
+	border-radius:10px;
+	vertical-align:center;
+  border-color: skyblue;
+}
+.login
+{
+  border-radius:100px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+  background-color: lightblue;
+}
+.v1
+{
+  position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+  padding-top: 50px;
+	padding-left:100px;
+	padding-right:100px;
+	padding-bottom:50px;
+	border:2px solid;
+	border-radius:10px;
+	vertical-align:center;
+  border-color: red;
+}
+.v2
+{
+  background-color: #f36e6e;
+  border-radius: 100px;
+}
+.v3
+{
+  color: red;
+}
+.vrd1
+{
+  border-color: green;
+  color: black;
+}
+.db
+{
+  color: red;
+}
+.log2
+{
+  color: red;
+}
+.logsub1
+{
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.lnoc
+{
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  padding-top: 50px;
+  padding-left:100px;
+  padding-right:100px;
+  padding-bottom:50px;
+  border:2px solid;
+  border-radius:10px;
+  vertical-align:center;
+  border-color: red;
+}
+.dd1
+{
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: right;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+}

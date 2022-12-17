@@ -1,0 +1,45 @@
+p{
+
+    font-family:calibri;
+    
+    color: azure;
+}
+
+
+body{
+	background-color: #52527a;
+    color: azure;
+	padding:0px;
+	
+}
+
+
+h1{
+    font-family:calibri;
+    background-color: #333399;
+
+    color: azure;
+
+}
+
+input{
+
+    color: rgb(35, 57, 68);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+   
+
+}
+
+.atag{
+	background-color: #732673;
+
+    color: azure;
+	padding:4px 4px 4px 4px;
+    border-radius:5px;
+    text-align: right;
+    align-items: center;
+}

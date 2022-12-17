@@ -1,0 +1,37 @@
+body{
+	background-color: rgb(0, 77, 153);
+}
+p{
+    text-align: center;
+    font-family: consolas;
+    
+        
+    }
+    .btn-success{
+        background-color: rgb(73,127,175);
+       
+        padding-left:105px;
+        padding-right:105px;
+        padding-top:2px;
+        padding-bottom:2px;
+        border-radius:10px; 
+        font-family: consolas;
+    }
+    .btn-success:active{
+        background-color:green;
+       
+    }
+    .btn-link1{
+        background-color: rgb(255, 0, 0);
+        padding-left:205px;
+        padding-right:205px;
+        padding-top:10px;
+        padding-bottom:10px;
+        text-decoration: none;
+        color:white;
+        font-family: calibri;
+    }
+    .btn-link1:active{
+        background-color:black;
+       
+    }

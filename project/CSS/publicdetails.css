@@ -1,0 +1,60 @@
+body{
+	background-color:#1B1464;
+	padding:0px;
+	
+}
+
+h1{
+    font-family:calibri;
+    background-color: #7733ff;
+    color: azure;
+}
+.head1{
+
+
+	padding-left:8px;
+	padding-right:8px;
+	padding-top:8px;
+	padding-bottom:9px;
+    border-radius:8px;
+    text-align: center;
+    margin: auto;
+    width: 300px;
+    height: 100px;
+
+}
+
+.btn-link{
+	background-color:rgb(73,127,175);
+	color:white;
+	font-family:calibri;
+	padding-left:10px;
+	padding-right:10px;
+	padding-top:10px;
+	padding-bottom:10px;
+	text-decoration:none;
+	border-radius:5px;
+}
+
+
+.main-btn{
+	background-color:rgb(73,127,175);
+	color:white;
+	font-family:calibri;
+	padding-left:10px;
+	padding-right:10px;
+	padding-top:10px;
+	padding-bottom:10px;
+	text-decoration:none;
+	border-radius:5px;
+}
+
+
+.btn-link:hover{
+	background-color:rgb(0,78,162);
+}
+
+
+.main-btn:hover{
+	background-color:#e74c3c;
+}
